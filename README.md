@@ -1,5 +1,7 @@
+![Cover](./cover.jpg)
 
-### Hi there 👋
+
+# Hi there 👋
 
 I'm glad you visited here :handshake: You can find my open source work :gem: experiments :boom: and some junk :wastebasket: here.  
 
